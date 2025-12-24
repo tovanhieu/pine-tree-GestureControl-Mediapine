@@ -10,7 +10,7 @@ Ban đầu chỉ muốn vẽ một cây thông 3D bình thường, nhưng cảm 
 Mặc dù chỉ có vài trăm dòng code, nhưng hiệu ứng hình ảnh rất ấn tượng (đặc biệt là trên màn hình lớn).
 
 Nhấp vào liên kết bên dưới để truy cập trực tiếp:
-[Truy cập dự án tại đây](https://bcat95.github.io/cay-thong-dieu-khien-bang-tay/christmas_tree_touch&gesture.html)
+[Truy cập dự án tại đây](https://tovanhieu.github.io/pine-tree-GestureControl-Mediapine/)
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/45f3ec57-00b5-4989-b3b2-484772ad95cf" />
 
