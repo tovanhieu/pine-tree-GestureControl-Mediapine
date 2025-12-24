@@ -84,7 +84,3 @@ Cảm ơn tất cả các nhà phát triển đã đóng góp cho dự án này:
 <a href="https://github.com/electronicminer/gesture-Christmas_tree-3d_with_photo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=electronicminer/gesture-Christmas_tree-3d_with_photo" />
 </a>
-
-## 📊 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=electronicminer/gesture-Christmas_tree-3d_with_photo&type=Date)](https://star-history.com/#electronicminer/gesture-Christmas_tree-3d_with_photo&Date)
